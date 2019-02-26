@@ -1,0 +1,15 @@
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast_MarkupCompile.cache
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast_MarkupCompile.lref
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.exe
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\bin\Debug\WeatherForecast.pdb
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.g.resources
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.Properties.Resources.resources
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.exe
+C:\Users\Harshal\Desktop\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
